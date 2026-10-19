@@ -1,0 +1,24 @@
+{
+  "id": "2fc1f39d-c7ab-4313-b770-eb9f7c19ce4e",
+  "finish_reason": "COMPLETE",
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "T1: відсутність інтернету\nT2: низька швидкість\nT3: оплата\nT4: інше\nT5: відсутність інтернету\nT6: оплата"
+      }
+    ]
+  },
+  "usage": {
+    "billed_units": {
+      "input_tokens": 346.0,
+      "output_tokens": 42.0
+    },
+    "tokens": {
+      "input_tokens": 841.0,
+      "output_tokens": 45.0
+    },
+    "cached_tokens": 448.0
+  }
+}

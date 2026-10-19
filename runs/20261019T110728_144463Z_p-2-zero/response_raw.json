@@ -1,0 +1,24 @@
+{
+  "id": "f7265c1d-bb0e-4ba6-bce3-8ac8d288f7c0",
+  "finish_reason": "COMPLETE",
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "T1: Технічна підтримка\nT2: Технічна підтримка\nT3: Фінансові питання\nT4: Інформаційна підтримка\nT5: Фінансові питання\nT6: Фінансові питання"
+      }
+    ]
+  },
+  "usage": {
+    "billed_units": {
+      "input_tokens": 175.0,
+      "output_tokens": 49.0
+    },
+    "tokens": {
+      "input_tokens": 670.0,
+      "output_tokens": 52.0
+    },
+    "cached_tokens": 448.0
+  }
+}

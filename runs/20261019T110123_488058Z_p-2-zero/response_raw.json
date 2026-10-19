@@ -1,0 +1,24 @@
+{
+  "id": "649baf6d-3615-4974-b59a-92c88c316ea9",
+  "finish_reason": "COMPLETE",
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "T1: Технічні проблеми\nT2: Проблеми з відео\nT3: Фінансові питання\nT4: Інформація про офіси\nT5: Перерахунок за простій\nT6: Додаткові послуги"
+      }
+    ]
+  },
+  "usage": {
+    "billed_units": {
+      "input_tokens": 175.0,
+      "output_tokens": 52.0
+    },
+    "tokens": {
+      "input_tokens": 670.0,
+      "output_tokens": 55.0
+    },
+    "cached_tokens": 448.0
+  }
+}

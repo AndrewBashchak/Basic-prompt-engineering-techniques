@@ -1,0 +1,24 @@
+{
+  "id": "6d617411-9835-44f1-98cb-d21cef7b1893",
+  "finish_reason": "COMPLETE",
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "T1: відсутність зв'язку\nT2: низька швидкість\nT3: помилка в рахунку\nT4: інформація про офіси\nT5: перерахунок за простій\nT6: додаткові послуги в рахунку"
+      }
+    ]
+  },
+  "usage": {
+    "billed_units": {
+      "input_tokens": 229.0,
+      "output_tokens": 53.0
+    },
+    "tokens": {
+      "input_tokens": 724.0,
+      "output_tokens": 56.0
+    },
+    "cached_tokens": 448.0
+  }
+}
